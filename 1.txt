@@ -1,5 +1,6 @@
 public static void main
-{
+{ 
+	char a;
 	int a;
 	System.out.println("Hello World");
 	System.out.println("Bye World");
