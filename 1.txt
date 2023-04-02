@@ -1,6 +1,6 @@
 public static void main
 { 
-	char a;
+	char a[];
 	System.out.println("Hello World");
 	System.out.println("Bye World");
 }
