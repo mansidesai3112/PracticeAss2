@@ -1,7 +1,11 @@
 public static void main
 { 
+<<<<<<< HEAD
 	char a;
 	double a;
+=======
+	char a[];
+>>>>>>> refs/heads/localbranch1
 	System.out.println("Hello World");
 	System.out.println("Bye World");
 }
